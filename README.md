@@ -15,8 +15,6 @@ From that point on, ChatGPT focuses solely on supportive, forward-looking messag
 
 This time-boxed method ensures users can express what’s weighing on them, receive comfort and advice, and move on with clarity and confidence — without spiraling into negativity.
 
----
-
 ## Key Features
 
 -  10-minute timer for structured emotional unloading  
@@ -26,13 +24,9 @@ This time-boxed method ensures users can express what’s weighing on them, rece
 -  Daily rating + reflection log  
 -  Calendar view to track emotional trends and affirmations over time  
 
----
-
 ## Philosophy
 
 This app blends guided introspection with AI-powered encouragement to help users release stress intentionally — and stop dwelling past the timer.
-
----
 
 ## Requirements
 
