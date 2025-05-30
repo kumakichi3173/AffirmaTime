@@ -1,7 +1,16 @@
 
 # AffirmaTime – 10-Minute Daily Reset App 
 (Retool + ChatGPT)
-https://saorishigehisa.retool.com/apps/2d7dac48-3692-11f0-83a4-a7eaa3711a20/AffirmaTime/empathy
+
+
+# AffirmaTime – 10-Minute Daily Reset App  
+(Retool + ChatGPT)
+
+
+-  [Watch Demo on YouTube](https://www.youtube.com/watch?v=GJ-pU75-n-4)  
+-  [Try the App on Retool](https://saorishigehisa.retool.com/apps/2d7dac48-3692-11f0-83a4-a7eaa3711a20/AffirmaTime/empathy)
+
+AffirmaTime is a self-care and affirmation web app built with Retool and OpenAI’s ChatGPT. It helps users unload stress through a 10-minute guided session, receive supportive affirmations, and log their emotional status through daily ratings and a calendar view. The app blends Retool’s custom components, built-in Chat UI, timers, and GPT prompts to encourage emotional awareness and positive reflection.
 
 AffirmaTime is a self-care and affirmation web app built with Retool and OpenAI’s ChatGPT. It helps users unload stress through a 10-minute guided session, receive supportive affirmations, and log their emotional status through daily ratings and a calendar view. The app blends Retool’s custom components, built-in Chat UI, timers, and GPT prompts to encourage emotional awareness and positive reflection.
 
