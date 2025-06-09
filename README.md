@@ -1,5 +1,5 @@
 
-# AffirmaTime – 10-Minute Daily Reset App 
+# AffirmaTime – 10-Minute Reset App 
 (Retool + ChatGPT)
 
 -  [Watch Demo on YouTube](https://www.youtube.com/watch?v=GJ-pU75-n-4)  
@@ -20,7 +20,7 @@ The app begins with a **10-minute timer** during which users are invited to free
 
 ## Philosophy
 
-This app helps users release stress intentionally — and stop dwelling past after the timer.
+This app helps users intentionally release stress and stop dwelling on the past after the timer has expired.
 
 ## Requirements
 
